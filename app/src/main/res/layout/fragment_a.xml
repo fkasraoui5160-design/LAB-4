@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#FFF0F5"
+    android:padding="32dp">
+
+    <TextView
+        android:id="@+id/tvMessageA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✨ Bienvenue dans le Fragment A"
+        android:textSize="18sp"
+        android:fontFamily="monospace"
+        android:textColor="#C2185B"
+        android:gravity="center"
+        android:paddingBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnSaluer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dire bonjour !"
+        android:fontFamily="monospace"
+        android:backgroundTint="#E91E8C"
+        android:textColor="#FFFFFF"/>
+</LinearLayout>

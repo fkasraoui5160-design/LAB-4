@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rose_fonce">#C2185B</color>
+    <color name="rose_moyen">#E91E8C</color>
+    <color name="rose_clair">#FCE4EC</color>
+    <color name="violet">#7B1FA2</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="texte_fonce">#212121</color>
+</resources>

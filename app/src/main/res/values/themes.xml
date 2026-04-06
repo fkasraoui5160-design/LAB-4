@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.FragmentsApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/rose_fonce</item>
+        <item name="colorPrimaryVariant">@color/violet</item>
+        <item name="colorAccent">@color/rose_moyen</item>
+        <item name="android:windowBackground">@color/rose_clair</item>
+    </style>
+</resources>
